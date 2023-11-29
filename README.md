@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/software%20developer-2020-2020?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/cristianordonezdev?style=for-the-badge)
 
-<h3>Top Technologies</h3>
+<h3>🛠 Tech Stack</h3>
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/VueJS-green?style=for-the-badge)
@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/C%23-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ASP.NET%20CORE-purple?style=for-the-badge&logo=.net)
 
-<h3>DataBases</h3>
+<h3>🛢️ DataBases</h3>
 
 ![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql)
 ![Static Badge](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,4 +33,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristianordonezdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristianordonezdev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+<h3>🤝🏻 Connect with Me</h3>
+
+![Static Badge](https://img.shields.io/badge/cristianordonezdev-orange?link=https%3A%2F%2Fcristianordonezdev.com%2F)
+![Static Badge](https://img.shields.io/badge/cristianordonezdev-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianordonezdev%2F)
+![Static Badge](https://img.shields.io/badge/cristianordonezdev-white?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fnaitsirc_nomar%2F)
 
