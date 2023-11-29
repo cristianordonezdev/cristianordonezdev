@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center" style="margin-bottom: 2em">Hola, soy <a href="https://cristianordonezdev.com">Cristian Ordoñez</a> 😎💻👋</h1>
 </div>
-<div style="border: 1px solid white">
   <img src="https://res.cloudinary.com/dxaedhq53/image/upload/v1701220629/cristianordonezdev_1_hjnlau.png" />
-</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
