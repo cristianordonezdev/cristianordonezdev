@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center" style="margin-bottom: 21em; display: block;">Hola, soy <a href="https://cristianordonezdev.com">Cristian Ordoñez</a> 😎💻👋</h1>
+<h1 align="center" style="margin-bottom: 21em; display: block;">Hola, soy <a href="https://cristianordonez.dev">Cristian Ordoñez</a> 😎💻👋</h1>
 </div>
 <img src="https://res.cloudinary.com/dxaedhq53/image/upload/v1701220629/cristianordonezdev_1_hjnlau.png" />
 
@@ -36,7 +36,7 @@
 
 <h3>🤝🏻 Connect with Me</h3>
 
-![Static Badge](https://img.shields.io/badge/cristianordonezdev-orange?link=https%3A%2F%2Fcristianordonezdev.com%2F)
+![Static Badge](https://img.shields.io/badge/cristianordonezdev-orange?link=https%3A%2F%2Fcristianordonez.dev%2F)
 ![Static Badge](https://img.shields.io/badge/cristianordonezdev-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianordonezdev%2F)
 ![Static Badge](https://img.shields.io/badge/cristianordonezdev-white?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fnaitsirc_nomar%2F)
 
